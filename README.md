@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm David 🏴‍☠️</h1>
-<h3 align="center">Just a simple student who likes to code a lot. :smiley: </h3>
+<h3 align="center">Currently developing a FiveM server. </h3>
+<h3 align="center">And yes, I am a fan of One Piece. </h3>
 <br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
