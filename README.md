@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm David 🏴‍☠️</h1>
-<h3 align="center">Currently developing an unique FiveM server. </h3>
-<h3 align="center">And yes, I am a fan of One Piece. </h3>
+<h3 align="center">Developing anything you wish.</h3>
+<h3 align="center">Feel free to reach me for any questions.</h3>
 <br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
