@@ -51,8 +51,3 @@
 <code><img width="22%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/1280px-Windows_11_logo.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 </p>
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://discord.com/users/223255710517952512" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="EtrSc4s" width="10%" /></a>
-</p>
