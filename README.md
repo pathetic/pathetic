@@ -37,17 +37,20 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
+<code><img width="13%" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"></code>
 
 
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://daoudisamir.com/wp-content/uploads/2015/01/visual-studio-2013-logo.png"></code>
+<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"></code>
+<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png"></code>
 </p>
 
 <h3 align="center">Platforms:</h3>
 <p align="center">
-<code><img width="22%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/1280px-Windows_11_logo.svg.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="15%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"></code>
+<code><img width="20%" src="https://i.imgur.com/o2ohf1x.png"></code>
+<code><img width="17%" src="https://static.cdnlogo.com/logos/a/49/android-2019.svg"></code>
 </p>
