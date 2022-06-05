@@ -5,23 +5,23 @@
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pathetic&theme=darkhub&show_icons=true" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathetic&theme=darkhub&layout=compact" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathetic&theme=darkhub" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pathetic&theme=tokyonight&show_icons=true" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathetic&theme=tokyonight&layout=compact" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathetic&theme=tokyonight" alt="pathetic" width="350" height="140"/>
 </p>
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathetic&theme=darkhub&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="pathetic" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathetic&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="pathetic" />
 </p>
 
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
 <p align="center">
 <a href="https://github.com/pathetic/Atom-Password-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=Atom-Password-Manager&theme=darkhub" alt="Algorhythm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=Atom-Password-Manager&theme=tokyonight" alt="Algorhythm" />
 </a>
 <a href="https://github.com/pathetic/SharpDTI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=SharpDTI&theme=darkhub" alt="DXF-to-PNG-Converter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=SharpDTI&theme=tokyonight" alt="DXF-to-PNG-Converter" />
 </a>
 </a>
 </p>
