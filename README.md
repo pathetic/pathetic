@@ -2,7 +2,6 @@
 <h3 align="center">Developing anything you wish.</h3>
 <h3 align="center">Feel free to reach me for any questions.</h3>
 <br />
-
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pathetic&theme=tokyonight&show_icons=true" alt="pathetic" width="350" height="140"/>
@@ -13,17 +12,6 @@
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathetic&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="pathetic" />
-</p>
-
-<h3 align="center"> 🗂️ Highlight Projects  </h3>
-<p align="center">
-<a href="https://github.com/pathetic/Atom-Password-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=Atom-Password-Manager&theme=tokyonight" alt="Algorhythm" />
-</a>
-<a href="https://github.com/pathetic/SharpDTI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathetic&repo=SharpDTI&theme=tokyonight" alt="DXF-to-PNG-Converter" />
-</a>
-</a>
 </p>
 
 <br />
