@@ -19,7 +19,7 @@
 <h1 align="center">What I use:</h1>
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
+<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="9%" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"></code>
