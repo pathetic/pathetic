@@ -63,6 +63,6 @@ I'm David, a Developer based in Romania. Passionate about creating robust and us
 
 ## 🤔 Stats 
 <div>
-<img width="445" src="https://github-readme-stats.vercel.app/api/?username=pathetic&show_icons=true&theme=github_dark">
-<img width="470" src="https://github-readme-streak-stats-eight.vercel.app/?user=pathetic&theme=github-dark-blue">
+<img width="375" src="https://github-readme-stats.vercel.app/api/?username=pathetic&show_icons=true&theme=github_dark">
+<img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=pathetic&theme=github-dark-blue">
 </div>
