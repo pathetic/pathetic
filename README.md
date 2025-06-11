@@ -1,45 +1,68 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm David 🏴‍☠️</h1>
-<h3 align="center">Developing anything you wish.</h3>
-<h3 align="center">Feel free to reach me for any questions.</h3>
-<br />
-<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pathetic&theme=tokyonight&show_icons=true" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathetic&theme=tokyonight&layout=compact" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pathetic&theme=tokyonight" alt="pathetic" width="350" height="140"/>
-</p>
+<h2>Hi there, nice to see you!   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h2>
 
-<h3 align="center"> 🏆 GitHub Trophies </h3>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathetic&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="pathetic" />
-</p>
+<img align='right' src='https://i.gifer.com/origin/7c/7cb2f563392d6d8ef19a2e624cc7155a_w200.gif' width='150'>
 
-<br />
+[![Matrix Badge](https://img.shields.io/badge/@firewalld:matrix.org-000?logo=matrix&logoColor=fff&style=flat-square)](https://matrix.to/#/@firewalld:matrix.org)
+[![Discord Badge](https://img.shields.io/badge/@firewalld-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/1322653483542908962)
+[![Mail Badge](https://img.shields.io/badge/-david@pathetic.sh-ff2919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david@pathetic.sh)](mailto:david@pathetic.sh)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpathetic&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=none)
 
-<h1 align="center">What I use:</h1>
-<h3 align="center">Languages and Frameworks:</h3>
-<p align="center">
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="9%" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
-<code><img width="13%" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"></code>
+Welcome to my Github!  
+I'm David, a Developer based in Romania. Passionate about creating robust and user-friendly applications, I'm continuously expanding my skillset and exploring new technologies.
+## 📌 Highlighted Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+      <td><b>📝 Language</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/pathetic/async-rust-rat"><b>Modern Rust RAT</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/pathetic/async-rust-rat?style=flat-square&labelColor=343b41&color=red"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/pathetic/bloodin"><b>Bloodin Music Player (Jellyfin)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/pathetic/bloodin?style=flat-square&labelColor=343b41&color=red"/></td>
+    </tr>
 
+  </tbody>
+</table>
 
-</p>
-<h3 align="center">Tools:</h3>
-<p align="center">
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png"></code>
-</p>
+## ⚡ Technologies
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
+![Tauri Badge](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat-square)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![React Native Badge](https://img.shields.io/badge/React%20Native-grey?&logo=react&style=flat-square&color=63C3DA&logoColor=000)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square)
+![Expo Badge](https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=flat-square)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
+![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat-square)
 
-<h3 align="center">Platforms:</h3>
-<p align="center">
-<code><img width="15%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"></code>
-<code><img width="20%" src="https://i.imgur.com/o2ohf1x.png"></code>
-<code><img width="17%" src="https://static.cdnlogo.com/logos/a/49/android-2019.svg"></code>
-</p>
+## 🤔 Stats 
+<div>
+<img width="445" src="https://github-readme-stats.vercel.app/api/?username=pathetic&show_icons=true&theme=github_dark">
+<img width="470" src="https://github-readme-streak-stats-eight.vercel.app/?user=pathetic&theme=github-dark-blue">
+</div>
