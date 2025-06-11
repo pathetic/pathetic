@@ -23,7 +23,7 @@ I'm David, a Developer based in Romania. Passionate about creating robust and us
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pathetic/async-rust-rat"><b>Modern Rust RAT</b></a></td>
+      <td><a href="https://github.com/pathetic/async-rust-rat"><b>Modern Rust Windows RAT</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
