@@ -22,14 +22,6 @@ I'm David, a Developer based in Romania. Passionate about creating robust and us
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/pathetic/async-rust-rat"><b>Modern Rust Windows RAT</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pathetic/async-rust-rat?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/pathetic/async-rust-rat?style=flat-square&labelColor=343b41&color=red"/></td>
-    </tr>
 	  <tr>
       <td><a href="https://github.com/pathetic/bloodin"><b>Bloodin Music Player (Jellyfin)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
