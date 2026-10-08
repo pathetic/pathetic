@@ -1,65 +1,38 @@
-<h2>Hi there, nice to see you!   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h2>
+<img align="right" width="170" src="https://i.gifer.com/origin/7c/7cb2f563392d6d8ef19a2e624cc7155a_w200.gif">
 
-<img align='right' src='https://i.gifer.com/origin/7c/7cb2f563392d6d8ef19a2e624cc7155a_w200.gif' width='150'>
+### Hey, I'm David 👋
+**Full-stack developer** based in Romania 🇷🇴<br>
+<sub>I like building software that feels fast, on the web and on the desktop.</sub>
 
-[![Matrix Badge](https://img.shields.io/badge/@firewalld:matrix.org-000?logo=matrix&logoColor=fff&style=flat-square)](https://matrix.to/#/@firewalld:matrix.org)
-[![Discord Badge](https://img.shields.io/badge/@firewalld-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/1322653483542908962)
-[![Mail Badge](https://img.shields.io/badge/-david@pathetic.sh-ff2919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david@pathetic.sh)](mailto:david@pathetic.sh)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpathetic&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=none)
+<a href="https://pathetic.sh"><img src="https://img.shields.io/badge/pathetic.sh-0d1117?style=flat-square&logo=googlechrome&logoColor=37d67a"></a>
+<a href="https://matrix.to/#/@firewalld:matrix.org"><img src="https://img.shields.io/badge/Matrix-0d1117?style=flat-square&logo=matrix&logoColor=37d67a"></a>
+<a href="https://discordapp.com/users/1322653483542908962"><img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=37d67a"></a>
+<a href="mailto:david@pathetic.sh"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=maildotru&logoColor=37d67a"></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpathetic&label=visits&countColor=%2337d67a&style=flat-square&labelStyle=lower">
 
-Welcome to my Github!  
-I'm David, a Developer based in Romania. Passionate about creating robust and user-friendly applications, I'm continuously expanding my skillset and exploring new technologies.
-## 📌 Highlighted Projects
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-      <td><b>📝 Language</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  <tr>
-      <td><a href="https://github.com/pathetic/bloodin"><b>Bloodin Music Player (Jellyfin)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pathetic/bloodin?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/pathetic/bloodin?style=flat-square&labelColor=343b41&color=red"/></td>
-    </tr>
+<p><img align="top" width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:21262d,100:37d67a"></p>
 
-  </tbody>
-</table>
+### About
+- Building web apps end to end with **TypeScript, React, Next.js, SvelteKit and Node**
+- Making fast, native desktop apps with **Rust + Tauri**
+- Currently learning **cybersecurity**
 
-## ⚡ Technologies
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
-![Tauri Badge](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![React Native Badge](https://img.shields.io/badge/React%20Native-grey?&logo=react&style=flat-square&color=63C3DA&logoColor=000)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square)
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square)
-![Expo Badge](https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=flat-square)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
-![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=flat-square)
-![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square)
-![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat-square)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
-![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat-square)
+### Stack
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,nodejs,tailwind,postgres,mysql,mongodb,docker,nginx,cloudflare,git,rust,tauri,c,cpp,cs,dotnet,java,py,lua,linux,bash&perline=13">
 
-## 🤔 Stats 
-<div>
-<img width="375" src="https://github-readme-stats-nine-neon-39.vercel.app/api/?username=pathetic&show_icons=true&theme=github_dark">
-<img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=pathetic&theme=github-dark-blue">
-</div>
+### Highlighted Projects
+<p>
+  <a href="https://github.com/pathetic/async-rust-rat"><img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=pathetic&repo=async-rust-rat&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=37d67a&icon_color=37d67a&text_color=c9d1d9"></a>
+  <a href="https://github.com/pathetic/bloodin"><img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=pathetic&repo=bloodin&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=37d67a&icon_color=37d67a&text_color=c9d1d9"></a>
+</p>
+
+### Activity
+<p align="center">
+  <img width="400" src="https://github-stats-extended.vercel.app/api?username=pathetic&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=37d67a&icon_color=37d67a&text_color=c9d1d9">
+  <img width="400" src="https://streak-stats.demolab.com/?user=pathetic&card_width=467&hide_border=true&background=0d1117&ring=37d67a&fire=37d67a&currStreakLabel=37d67a&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathetic/pathetic/output/snake-green-dark.svg">
+  <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/pathetic/pathetic/output/snake-green-light.svg">
+</picture>
